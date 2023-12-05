@@ -1,7 +1,10 @@
 package Servicios;
 
 import java.util.Scanner;
-
+/**
+ * Clase interfaz que se encarga del menu principal de la aplicacion
+ * @author CMR - 05-12-23
+ */
 public interface MenuInterfaz {
 	
 /**
